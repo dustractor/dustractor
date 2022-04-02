@@ -1,16 +1,16 @@
-### Hi there 👋
+If you are a Blender user, these are the plugins that are worth checking
+out:
 
-<!--
-**dustractor/dustractor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* tkit
+* conway
+* propchart
+* vpprompt
+* matlib
+* cygon_pack
 
-Here are some ideas to get you started:
+For vim users, you might find some of these useful:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* dazi
+* ritmus
+* havetermsay
+* vimtkcolor
