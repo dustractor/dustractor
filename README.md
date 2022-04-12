@@ -10,7 +10,5 @@ out:
 
 For vim users, you might find some of these useful:
 
-* [dazi](https://github.com/dustractor/dazi)
 * [ritmus](https://github.com/dustractor/ritmus)
-* [termsay](https://github.com/dustractor/havetermsay)
-* [vimtkcolor](https://github.com/dustractor/vimtkcolor)
+* [argloco](https://github.com/dustractor/argloco)
