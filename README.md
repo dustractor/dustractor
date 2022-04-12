@@ -1,16 +1,16 @@
 If you are a Blender user, these are the plugins that are worth checking
 out:
 
-* [tkit](/dustractor/tkit)
-* [conway](dustractor/conway)
-* [propchart](dustractor/propchart)
-* [vpprompt](dustractor/vpprompt)
-* [matlib](dustractor/matlib)
-* [cygon_pack](dustractor/cygon_pack)
+* [tkit](https://github.com/dustractor/tkit)
+* [conway](https://github.com/dustractor/conway)
+* [propchart](https://github.com/dustractor/propchart)
+* [vpprompt](https://github.com/dustractor/vpprompt)
+* [matlib](https://github.com/dustractor/matlib)
+* [cygon_pack](https://github.com/dustractor/cygon_pack)
 
 For vim users, you might find some of these useful:
 
-* [dazi](dustractor/dazi)
-* [ritmus](dustractor/ritmus)
-* [havetermsay](dustractor/havetermsay)
-* [vimtkcolor](dustractor/vimtkcolor)
+* [dazi](https://github.com/dustractor/dazi)
+* [ritmus](https://github.com/dustractor/ritmus)
+* [havetermsay](https://github.com/dustractor/havetermsay)
+* [vimtkcolor](https://github.com/dustractor/vimtkcolor)
