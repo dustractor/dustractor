@@ -1,7 +1,7 @@
 If you are a Blender user, these are the plugins that are worth checking
 out:
 
-* tkit
+* [tkit](dustractor/tkit)
 * conway
 * propchart
 * vpprompt
